@@ -1,0 +1,16 @@
+F:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
+F:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.vcxproj.SuggestedBindingRedirects.cache
+F:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.exe
+F:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.MainForm.resources
+F:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.vcxproj.GenerateResource.cache
+F:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.AboutAutorForm.resources
+F:\Danil\Study\OP\Курсовая\code\project\x64\Debug\Project.MainForm.uk-UA.resources
+F:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.AnswerForm.resources
+D:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
+D:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.vcxproj.SuggestedBindingRedirects.cache
+D:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.AboutAutorForm.resources
+D:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.AnswerForm.resources
+D:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.MainForm.resources
+D:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.MainForm.uk-UA.resources
+D:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.vcxproj.GenerateResource.cache
+D:\Danil\Study\OP\Курсовая\code\Project\x64\Debug\Project.exe
